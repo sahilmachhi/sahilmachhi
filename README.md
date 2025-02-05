@@ -6,7 +6,6 @@ I love learning new tools, optimizing code, and solving complex problems to deli
 
 # 📊 GitHub Stats:
 
-## 🔥 GitHub Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilmachhi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmachhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=sahilmachhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
